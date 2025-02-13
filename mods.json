@@ -1,0 +1,333 @@
+[
+  {
+    "acronym": "EZ",
+    "magnification": 0.5,
+    "value": 1 
+  },
+  {
+    "acronym": "NF",
+    "magnification": 0.5,
+    "value": -1
+  },
+  {
+    "acronym": "HT",
+    "magnification": 0.3,
+    "value": -1
+  },
+  {
+    "acronym": "DC",
+    "magnification": 0.3,
+    "value": -1
+  },
+  {
+    "acronym": "NR",
+    "magnification": 0.9,
+    "value": -1
+  },
+  {
+    "acronym": "HR",
+    "magnification": 1.06,
+    "value": 1 
+  },
+  {
+    "acronym": "SD",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "PF",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "DT",
+    "magnification": 1.1,
+    "value": -1
+  },
+  {
+    "acronym": "NC",
+    "magnification": 1.1,
+    "value": -1
+  },
+  {
+    "acronym": "FI",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "HD",
+    "magnification": 1.06,
+    "value": 0 
+  },
+  {
+    "acronym": "CO",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "FL",
+    "magnification": 1.12,
+    "value": 3 
+  },
+  {
+    "acronym": "BL",
+    "magnification": 1.12,
+    "value": 3 
+  },
+  {
+    "acronym": "ST",
+    "magnification": 1,
+    "value": 1 
+  },
+  {
+    "acronym": "AC",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "AT",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "CN",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "RX",
+    "magnification": 0.1,
+    "value": -1
+  },
+  {
+    "acronym": "AP",
+    "magnification": 0.1,
+    "value": -1
+  },
+  {
+    "acronym": "SO",
+    "magnification": 0.9,
+    "value": -1
+  },
+  {
+    "acronym": "TP",
+    "magnification": 0.1,
+    "value": -1
+  },
+  {
+    "acronym": "DA",
+    "magnification": 0.5,
+    "value": -1
+  },
+  {
+    "acronym": "CL",
+    "magnification": 0.96,
+    "value": -1
+  },
+  {
+    "acronym": "RD",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "MR",
+    "magnification": 1,
+    "value": 0 
+  },
+  {
+    "acronym": "AL",
+    "magnification": 1,
+    "value": 0 
+  },
+  {
+    "acronym": "SW",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "SG",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "IN",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "CS",
+    "magnification": 0.9,
+    "value": -1
+  },
+  {
+    "acronym": "HO",
+    "magnification": 0.9,
+    "value": -1
+  },
+  {
+    "acronym": "1K",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "2K",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "3K",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "4K",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "5K",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "6K",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "7K",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "8K",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "9K",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "10K",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "TR",
+    "magnification": 1,
+    "value": 3 
+  },
+  {
+    "acronym": "WG",
+    "magnification": 1,
+    "value": 1 
+  },
+  {
+    "acronym": "SI",
+    "magnification": 1,
+    "value": 2 
+  },
+  {
+    "acronym": "GR",
+    "magnification": 1,
+    "value": 1 
+  },
+  {
+    "acronym": "DF",
+    "magnification": 1,
+    "value": 1 
+  },
+  {
+    "acronym": "WU",
+    "magnification": 0.5,
+    "value": -1
+  },
+  {
+    "acronym": "WD",
+    "magnification": 0.5,
+    "value": -1
+  },
+  {
+    "acronym": "TC",
+    "magnification": 1,
+    "value": 1 
+  },
+  {
+    "acronym": "BR",
+    "magnification": 1,
+    "value": 1 
+  },
+  {
+    "acronym": "AD",
+    "magnification": 1,
+    "value": 1 
+  },
+  {
+    "acronym": "FF",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "MU",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "NS",
+    "magnification": 1,
+    "value": 1 
+  },
+  {
+    "acronym": "MG",
+    "magnification": 0.5,
+    "value": 0 
+  },
+  {
+    "acronym": "RP",
+    "magnification": 1.0,
+    "value": 1 
+  },
+  {
+    "acronym": "AS",
+    "magnification": 0.5,
+    "value": -1
+  },
+  {
+    "acronym": "FR",
+    "magnification": 1,
+    "value": 2 
+  },
+  {
+    "acronym": "BU",
+    "magnification": 1,
+    "value": 2 
+  },
+  {
+    "acronym": "SY",
+    "magnification": 0.8,
+    "value": 0 
+  },
+  {
+    "acronym": "DP",
+    "magnification": 1,
+    "value": 1 
+  },
+  {
+    "acronym": "BM",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "SV2",
+    "magnification": 1,
+    "value": -1
+  },
+  {
+    "acronym": "TD",
+    "magnification": 1,
+    "value": -1
+  }
+
+]

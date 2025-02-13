@@ -1,53 +1,50 @@
 [
-	{
-		"mods": "NM" ,
-		"beatmap_id": 975163
-	},
-	{
-		"mods": "NM" ,
-		"beatmap_id": 2680344
-	},
-	{
-		"mods": "NM" ,
-		"beatmap_id": 3515032
-	},
-	{
-		"mods": "NM" ,
-		"beatmap_id": 3377399
-	},
-	{
-		"mods": "NM" ,
-		"beatmap_id": 3448872
-	},
-	{
-		"mods": "HR" ,
-		"beatmap_id": 3426309
-	},
-	{
-		"mods": "HR" ,
-		"beatmap_id": 2204492
-	},
-	{
-		"mods": "DT" ,
-		"beatmap_id": 363639
-	},
-	{
-		"mods": "DT" ,
-		"beatmap_id": 3614628
-	},
-	{
-		"mods": "DT" ,
-		"beatmap_id": 21422
-	}
-		
+  {
+    "mods": "FM1",
+    "defaultMagnification": 1,
+    "requestValue": 1,
+    "bonusMods": ""
+  },
+  {
+    "mods": "FM2",
+    "defaultMagnification": 1,
+    "requestValue": 1,
+    "bonusMods": ""
+  },
+  {
+    "mods": "FM3",
+    "defaultMagnification": 1,
+    "requestValue": 2,
+    "bonusMods": "ST"
+  },
+  {
+    "mods": "FM4",
+    "defaultMagnification": 1,
+    "requestValue": 2,
+    "bonusMods": "AL"
+  },
+  {
+    "mods": "FM5",
+    "defaultMagnification": 1,
+    "requestValue": -1,
+    "bonusMods": ""
+  },
+  {
+    "mods": "FM6",
+    "defaultMagnification": 1,
+    "requestValue": 0,
+    "bonusMods": ""
+  },
+  {
+    "mods": "FM7",
+    "defaultMagnification": 1,
+    "requestValue": 0,
+    "bonusMods": ""
+  },
+  {
+    "mods": "TB",
+    "defaultMagnification": 1,
+    "requestValue": 0,
+    "bonusMods": ""
+  }
 ]
-	
-
-
-
-
-
-
-
-
-
