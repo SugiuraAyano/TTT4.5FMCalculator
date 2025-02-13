@@ -54,7 +54,7 @@ jobs:
     runs-on: windows-latest
 
     env:
-      Solution_Name: ScoreCalculator.sln   # Replace with your solution name, i.e., ScoreCalculator.sln.
+      Solution_Name: ScoreCalculator.sln  # Replace with your solution name, i.e., ScoreCalculator.sln.
 
     steps:
     - name: Checkout
@@ -68,7 +68,7 @@ jobs:
       with:
         dotnet-version: 8.0.x
 
-    # Add  MSBuild to the PATH
+    # Add MSBuild to the PATH
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v2
 
@@ -84,9 +84,14 @@ jobs:
       env:
         Configuration: ${{ matrix.configuration }}
 
-    # Upload the build artifacts
+    # Get current timestamp for unique artifact name
+    - name: Get current timestamp
+      id: date
+      run: echo "::set-output name=timestamp::$(date +'%Y%m%d%H%M%S')"
+
+    # Upload the build artifacts with a unique name based on configuration and timestamp
     - name: Upload build artifacts
       uses: actions/upload-artifact@v4
       with:
-        name: Build Output
+        name: BuildOutput-${{ github.run_id }}-${{ matrix.configuration }}-${{ steps.date.outputs.timestamp }}  # Unique name with configuration and timestamp
         path: ./bin/${{ matrix.configuration }}/
